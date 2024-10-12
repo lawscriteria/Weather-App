@@ -17,8 +17,8 @@
 2) Set Up: Once Python is installed, follow these steps:
     - #### Open your code editor or IDE
         If you do not have a code editor, you'll have to download one. Popular IDEs include [VS Code](https://code.visualstudio.com/download) and [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows). Install and open your code editor of preference.
-    - #### Open the Project File
-        Open the file *random_password_generator.py* within the *random_password_generator* folder you downloaded. Note that it is a *.zip* file, so you will need to extract it using a *zip file manager*.
+    - #### Open the Project Folder
+        Note that it is a *.zip* Folder, so you will need to extract it using a *zip file manager*. After extracting it, open the project folder in a code editor.
     - #### Run the Python File
         Before running the .py file, make sure that you have all the required modules installed via pip, as mentioned above. To install a pip module, type the following line in the command terminal:
         <blockquote>pip install [module_name]</blockquote>
