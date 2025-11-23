@@ -36,10 +36,6 @@
 
 ## Contact Me
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Mail icon" width="15" style="translate: 0% 30%"/> : [instagram.com/lawful.11](https://instagram.com/lawful.11)
-
-<img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Mail icon" width="15" style="translate: 0% 30%"/> : [discordapp.com/users/lawi](https://discordapp.com/users/671326608216555561)
-
 <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="Mail icon" width="15" style="translate: 0% 30%"/> : [lawscriteria@gmail.com](mailto:lawscriteria@gmail.com?subject=Hello%20there!)
 
 
