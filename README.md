@@ -41,4 +41,4 @@
 
 <hr>
 
-<h1><span>&LeftAngleBracket;&thinsp;</span>&copy; 2024 Lawi<span>&thinsp;&RightAngleBracket;</span></h1>
+<h1><span>&LeftAngleBracket;&thinsp;</span>&copy; 2025 Lawi<span>&thinsp;&RightAngleBracket;</span></h1>
